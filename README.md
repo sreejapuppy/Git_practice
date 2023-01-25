@@ -1,2 +1,2 @@
 # Git_practice
-all about project
+some changes
